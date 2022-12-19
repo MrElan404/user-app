@@ -1,0 +1,41 @@
+.login-page {
+    background-color: #eeeeee;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.main {
+    padding: 150px 0px;
+}
+.card {
+    background-color: white;
+    width: 300px;
+    margin:auto;
+    border-radius: 5px;
+}
+
+.card h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+form {
+    padding: 20px 58px;
+}
+
+.form-field input {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #cacaca;
+    margin: 5px 0px;
+}
+
+.btn {
+    padding: 13px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0da8b4;
+    color: white;
+    margin: 10px 63px;
+}

@@ -1,0 +1,7 @@
+{
+    "LOGIN_API" : "http://localhost:4100/user-login/",
+    "USER_DETAILS_API" : "http://localhost:4100/user-details/",
+    "INPUT_DATA_API" : "http://localhost:4100/input-data/",
+    "USER_DEVICE_DETAILS_API" : "https://api.beesbuzz.net/api/v1/master/get-device-model-type",
+    "LoadingText" : "Loading..."
+}

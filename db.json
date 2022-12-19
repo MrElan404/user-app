@@ -1,0 +1,88 @@
+{
+  "user-login": [
+    {
+      "user_id": 1,
+      "email": "elan@gmail.com",
+      "password": "Elan@123$"
+    },
+    {
+      "user_id": 2,
+      "email": "vignesh@gmail.com",
+      "password": "Vignesh@123$"
+    },
+    {
+      "user_id": 3,
+      "email": "gokul@gmail.com",
+      "password": "Gokul@123$"
+    },
+    {
+      "user_id": 4,
+      "email": "selva@gmail.com",
+      "password": "Selva@123$"
+    }
+  ],
+  "user-details": [
+    {
+      "user_id": 1,
+      "name": "Elan",
+      "age": 23,
+      "email": "elan@gmail.com",
+      "mobile": 6380325481,
+      "address": "Salem",
+      "password": "Elan@123$",
+      "conPassword": "Elan@123$"
+    },
+    {
+      "user_id": 2,
+      "name": "Vignesh",
+      "age": 23,
+      "email": "vignesh@gmail.com",
+      "mobile": 9870654321,
+      "address": "Attur",
+      "password": "Vignesh@123$",
+      "conPassword": "Vignesh@123$"
+    },
+    {
+      "user_id": 3,
+      "name": "Gokul",
+      "age": 23,
+      "email": "gokul@gmail.com",
+      "mobile": 8970654312,
+      "address": "Salem",
+      "password": "Gokul@123$",
+      "conPassword": "Gokul@123$"
+    },
+    {
+      "user_id": 4,
+      "name": "Sleva Kumar",
+      "age": 23,
+      "email": "selva@gmail.com",
+      "mobile": 9078564312,
+      "address": "Namakkal",
+      "password": "Selva@123$",
+      "conPassword": "Selva@123$"
+    }
+  ],
+  "input-data": [
+    {
+      "name": "Elan",
+      "age": "23",
+      "email": "elan@gmail.com",
+      "mobile": "1234567890",
+      "password": "Elan@123",
+      "conPassword": "Elan@123",
+      "address": "Salem",
+      "id": 1
+    },
+    {
+      "name": "Selva",
+      "age": "26",
+      "email": "selva@gmail.com",
+      "mobile": "2323432564",
+      "password": "Selva@1234",
+      "conPassword": "Selva@1234",
+      "address": "Salem",
+      "id": 2
+    }
+  ]
+}

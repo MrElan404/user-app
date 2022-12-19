@@ -1,0 +1,57 @@
+.signup-page {
+    background-color: #eeeeee;
+    padding: 0;
+    margin: 0;
+}
+
+.signup-content {
+    padding: 150px 0px;
+}
+
+.signup-card {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.signup-card h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+form {
+    padding: 20px 58px;
+}
+
+.form-sec {
+    display: grid;
+    grid-template-columns: 48% 48%;
+}
+
+.form-field input {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #cacaca;
+    margin: 5px 0px;
+}
+
+.form-field textarea {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #cacaca;
+    margin: 5px 0px;
+}
+.form-field small {
+    color: tomato;
+}
+.signup-btn {
+    padding: 13px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0da8b4;
+    color: white;
+    margin: 21px 0px 0px 180px;
+}

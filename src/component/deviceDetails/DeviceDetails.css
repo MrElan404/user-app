@@ -1,0 +1,24 @@
+.device-page {
+    padding: 0;
+    margin: 0;
+    background-color: #eeeeee;
+    height: 100vh;
+}
+.device-content {
+    padding: 1rem 4rem;
+}
+.device-content p {
+    padding-bottom: 20px;
+}
+.device-card {
+    background-color: white;
+    border-radius: 5px;
+    width: 200px;
+    padding: 10px 20px;
+}
+.device-card h3 {
+    padding: 5px 10px;
+}
+.device-type {
+    margin: 10px 0px 10px 30px;
+}

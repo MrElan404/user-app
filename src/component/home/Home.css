@@ -1,0 +1,187 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeeeee;
+    height: 100vh;
+}
+
+.title {
+    padding: 20px 63px 0px 63px;
+}
+
+.grid-sec {
+    padding: 20px 50px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 17% 28% 25% 30%;
+}
+
+.sec-1,
+.sec-2,
+.sec-3,
+.sec-4 {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+    border-radius: 5px;
+}
+
+.sec-1 {
+    text-align: center;
+}
+
+.pro-icon {
+    width: 104xpx !important;
+    height: 121px;
+}
+
+.profile_btn {
+    padding: 13px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0da8b4;
+    color: white;
+    display: block;
+    margin: 10px auto;
+}
+
+.task {
+    display: flex;
+    text-align: center;
+    padding-top: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.sec-2>h3 {
+    padding: 10px 0px 0px 15px;
+}
+
+.pending-task,
+.completed-task,
+.total-task {
+    padding: 15px;
+}
+
+.sec-3>h3 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.sec-3 p {
+    font-size: 12px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.sec-3 h1 {
+    font-size: 45px;
+    padding-top: 15px;
+}
+
+.sec-4>h3 {
+    padding: 10px 0px 0px 15px;
+}
+
+.details {
+    display: flex;
+}
+
+.details-chart-1 {
+    width: 125px;
+    height: 138px;
+    margin: 8px 15px 0px 35px;
+}
+
+.details-chart-2 {
+    width: 125px;
+    height: 138px;
+    margin: 8px 10px 0px 30px;
+}
+
+.img-1>p {
+    margin: 0px 0px 10px 61px;
+}
+
+.img-2>p {
+    margin: 0px 0px 10px 80px;
+}
+
+.grid-sec-2 {
+    padding: 0px 50px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 20% 50% 30%;
+}
+
+.l2-sec-1,
+.l2-sec-2,
+.l2-sec-3 {
+    background-color: white;
+    padding: 10px;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+
+.l2-sec-1>h3,
+.l2-sec-3>h3 {
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+}
+
+.l2-sec-1 {
+    text-align: center;
+}
+
+.week-pie-chart {
+    padding: 25px 0px;
+    width: 177px;
+    height: 180px;
+}
+
+.value {
+    position: absolute;
+    z-index: 10;
+    margin: 99px 0px 0px -107px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.l2-sec-2>h3 {
+    padding: 10px 0px 0px 15px;
+}
+
+.charts {
+    display: flex;
+}
+
+.progress-chart {
+    width: 230px;
+    height: 177px;
+    margin: 40px 0px 0px 57px;
+}
+
+.progress-chart-2 {
+    width: 200px;
+    height: 214px;
+    margin: 10px 0px 0px 82px;
+}
+
+.progress-value {
+    position: absolute;
+    z-index: 10;
+    margin: 98px 0px 0px 440px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.l2-sec-3 ul {
+    padding-inline-start: 48px;
+    margin-top: 28px;
+    margin-bottom: 22px;
+}
+
+.l2-sec-3 ul li {
+    margin-top: 18px;
+}
